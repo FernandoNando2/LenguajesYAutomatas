@@ -42,5 +42,20 @@ namespace Archivos{
             copia.Close();
             archivo.Close();
         }
+        public void palabras(){
+            string buffer= "";
+            while (!archivo.EndOfStream){
+                char c = (char)archivo.Read();
+                if(char.IsLetterOrDigit(c)){
+                    buffer+=c;
+                }
+                else if(char.IsWhiteSpace(c)){
+                    copia.WriteLine(buffer);
+                    buffer= "";
+                }
+            }
+            copia.Close();
+            archivo.Close();
+        }
     }
 }
