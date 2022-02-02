@@ -13,3 +13,18 @@ C:\archivos\obj\Debug\net6.0\archivos.dll
 C:\archivos\obj\Debug\net6.0\ref\archivos.dll
 C:\archivos\obj\Debug\net6.0\archivos.pdb
 C:\archivos\obj\Debug\net6.0\archivos.genruntimeconfig.cache
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\bin\Debug\net6.0\archivos.exe
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\bin\Debug\net6.0\archivos.deps.json
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\bin\Debug\net6.0\archivos.runtimeconfig.json
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\bin\Debug\net6.0\archivos.dll
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\bin\Debug\net6.0\ref\archivos.dll
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\bin\Debug\net6.0\archivos.pdb
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\obj\Debug\net6.0\archivos.csproj.AssemblyReference.cache
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\obj\Debug\net6.0\archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\obj\Debug\net6.0\archivos.AssemblyInfoInputs.cache
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\obj\Debug\net6.0\archivos.AssemblyInfo.cs
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\obj\Debug\net6.0\archivos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\obj\Debug\net6.0\archivos.dll
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\obj\Debug\net6.0\ref\archivos.dll
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\obj\Debug\net6.0\archivos.pdb
+C:\Users\Fernando Hernández\Desktop\ITQ\4to Semestre\Lenguajes y Autómatas 1\archivos\obj\Debug\net6.0\archivos.genruntimeconfig.cache

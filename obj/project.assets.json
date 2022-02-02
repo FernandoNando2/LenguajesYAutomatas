@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\archivos\\archivos.csproj",
+      "projectUniqueName": "C:\\Users\\Fernando Hernández\\Desktop\\ITQ\\4to Semestre\\Lenguajes y Autómatas 1\\archivos\\archivos.csproj",
       "projectName": "archivos",
-      "projectPath": "C:\\archivos\\archivos.csproj",
+      "projectPath": "C:\\Users\\Fernando Hernández\\Desktop\\ITQ\\4to Semestre\\Lenguajes y Autómatas 1\\archivos\\archivos.csproj",
       "packagesPath": "C:\\Users\\Fernando Hernández\\.nuget\\packages\\",
-      "outputPath": "C:\\archivos\\obj\\",
+      "outputPath": "C:\\Users\\Fernando Hernández\\Desktop\\ITQ\\4to Semestre\\Lenguajes y Autómatas 1\\archivos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
