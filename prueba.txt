@@ -1,6 +1,1 @@
-
-
-
-
-
-            Un compilador             es un programa informático que traduce un programa escrito en un lenguaje de programación, definido «código fuente», a otro lenguaje de alto (COBOL, PASCAL, BASIC, C, etc.), medio o más bajo nivel (código intermedio o código máquina) como puede ser C/C++.
+Un compilador es un programa informático que traduce un programa escrito en un lenguaje de programación, definido «código fuente», a otro lenguaje de alto (COBOL, PASCAL, BASIC, C, etc.), medio o más bajo nivel (código intermedio o código máquina) como puede ser C/C++.

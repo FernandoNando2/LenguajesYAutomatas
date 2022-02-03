@@ -19,37 +19,17 @@ namespace Archivos{
             int letras=0,numeros=0,espacios=0;
             while (!archivo.EndOfStream){
                 char c = (char)archivo.Read();
-                Console.Write(c);
-                if (c == 'a'|| c == 'A'){
-                    copia.Write('4');
-                }
-                else if (char.ToLower(c) == 'e' ){
-                    copia.Write('3');
-                }
-                else if (char.ToLower(c) == 'i'){
-                    copia.Write('1');
-                }
-                else if (char.ToLower(c) == 'o'){
-                    copia.Write('0');
-                }
-                else if (char.ToLower(c) == 'u'){
-                    copia.Write('#');
-                }
-                else {
-                    copia.Write(c);
-                }
-                if(char.IsLetter(c)){
-                    letras++;
-                }
-                else if (char.IsDigit(c)){
-                    numeros++;
-                }
-                else if (c==32){
-                    espacios++;
-                }
+                letras= (char.IsLetter(c)) ? letras+=1 : letras;
+                numeros= (char.IsDigit(c)) ? numeros+=1 : numeros;
+                espacios= (c==32) ? espacios+=1 : espacios;
+                c = (Char.ToLower(c) == 'a' || c == 'á') ? '4' : c;
+                c = (Char.ToLower(c) == 'e' || c == 'é') ? '3' : c;
+                c = (Char.ToLower(c) == 'i' || c == 'í') ? '1' : c;
+                c = (Char.ToLower(c) == 'o' || c == 'ó') ? '0' : c;
+                c = (Char.ToLower(c) == 'u' || c == 'ú') ? '#' : c;                                                
+                copia.Write(c);
             }
             copia.WriteLine("\nNumeros: " +numeros +"\nEspacios: " +espacios +"\nLetras: " +letras);
-        Cerrar();
         }
         public void palabras(){
             string buffer= " ";

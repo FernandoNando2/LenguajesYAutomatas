@@ -1,2 +1,4 @@
-Un
-compilador
+#n c0mp1l4d0r 3s #n pr0gr4m4 1nf0rm4t1c0 q#3 tr4d#c3 #n pr0gr4m4 3scr1t0 3n #n l3ng#4j3 d3 pr0gr4m4c10n, d3f1n1d0 «c0d1g0 f#3nt3», 4 0tr0 l3ng#4j3 d3 4lt0 (C0B0L, P4SC4L, B4S1C, C, 3tc.), m3d10 0 m4s b4j0 n1v3l (c0d1g0 1nt3rm3d10 0 c0d1g0 m4q#1n4) c0m0 p#3d3 s3r C/C++.
+Numeros: 0
+Espacios: 42
+Letras: 209
